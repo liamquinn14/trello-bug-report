@@ -19,6 +19,7 @@
 - Usability
 
 ## Things to take note of
+- General observations
 - Bugs
 - Potential risks
 
